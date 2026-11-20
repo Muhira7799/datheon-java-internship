@@ -1,0 +1,22 @@
+student_id,name,course,score
+101,Aarav Sharma,Science,92.0
+101,Aarav Sharma,Computer,95.0
+101,Aarav Sharma,English,79.0
+101,Aarav Sharma,Math,88.0
+102,Diya Patel,Science,89.0
+102,Diya Patel,Computer,98.0
+102,Diya Patel,English,94.0
+102,Diya Patel,Math,95.0
+103,Rohan Gupta,Science,68.0
+103,Rohan Gupta,Computer,80.0
+103,Rohan Gupta,English,75.0
+103,Rohan Gupta,Math,72.0
+104,Ananya Iyer,Science,96.0
+104,Ananya Iyer,Computer,94.0
+104,Ananya Iyer,English,88.0
+104,Ananya Iyer,Math,91.0
+105,Vikram Singh,Science,70.0
+105,Vikram Singh,Computer,68.0
+105,Vikram Singh,English,72.0
+105,Vikram Singh,Math,65.0
+106,Ali,Java,85.0
