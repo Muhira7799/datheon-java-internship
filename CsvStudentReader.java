@@ -15,7 +15,7 @@ import java.util.Map;
 public class CsvStudentReader {
 
 public static List<Student> loadStudentsFromCsv() throws IOException {
-    String filePath = "C:\\Users\\USER\\Downloads\\student_grades.csv";
+ String filePath = "student_grades.csv";
 
     Map<Integer, Student> studentsMap = new LinkedHashMap<>();
 
@@ -57,7 +57,7 @@ student.addGrade(course, score);
 
     public static void main(String[] args) {
 
-    	String filePath = "C:\\Users\\USER\\Downloads\\sample_student_grades.csv";
+    	String filePath = "student_grades.csv";
 
         List<Student> students = new ArrayList<>();
 
@@ -150,7 +150,7 @@ student.addGrade(course, score);
 public static void saveStudentsToCsv(List<Student> students)
         throws IOException {
 
-    String filePath = "C:\\Users\\USER\\Downloads\\student_grades.csv";
+   String filePath = "student_grades.csv";
 
     try (BufferedWriter writer =
             new BufferedWriter(new FileWriter(filePath))) {
